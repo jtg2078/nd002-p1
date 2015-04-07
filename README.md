@@ -1,5 +1,6 @@
 #Analyzing the NYC Subway Dataset
-#Questions
+
+
 ##Overview
 This project consists of two parts. In Part 1 of the project, you should have completed the questions in Problem Sets 2, 3, 4, and 5 in the Introduction to Data Science course.  
 
@@ -7,6 +8,9 @@ This document addresses part 2 of the project. Please use this document as a tem
 Section 0. References
 
 ####Please include a list of references you have used for this project. Please be specific - for example, instead of including a general website such as stackoverflow.com, try to include a specific topic from Stackoverflow that you have found useful.
+
+###[ipython notebook for this project](http://nbviewer.ipython.org/github/jtg2078/nd002-p1/blob/master/p1.ipynb)
+
 ```
 http://stackoverflow.com/
 https://www.youtube.com/watch?v=SqcxYnNlI3Y
